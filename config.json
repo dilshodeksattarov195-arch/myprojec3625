@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpender",
+        "uuid": 4491375,
+        "checksum": "ok9hla"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
